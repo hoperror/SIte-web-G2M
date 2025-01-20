@@ -1,0 +1,135 @@
+/* Styles spécifiques à la page d'accueil */
+
+/* En-tête */
+header {
+    background-color: #5B9270;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.conteneur_logo {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titre_header {
+    flex: 2;
+    text-align: center;
+}
+
+header .logo {
+    width: 100px;
+    height: auto;
+}
+
+header h2.sous_titre {
+    font-size: 0.9em;
+    text-transform: uppercase;
+    font-weight: lighter;
+    margin-top: 5px;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+/* Navigation */
+nav {
+    background-color: #32848B;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a.active {
+    background-color: #4FA994;
+    border-radius: 5px;
+}
+
+nav a:hover {
+    background-color: #4FA994;
+    border-radius: 5px;
+}
+
+/* Conteneur principal */
+body {
+    background-color: #F2F5EA;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+section {
+    margin-bottom: 40px;
+    padding: 20px;
+    background-color: #8AC0C0;
+    border-radius: 8px;
+}
+
+section h2 {
+    color: #5B9270;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+section p, section ul {
+    line-height: 1.6;
+}
+
+ul {
+    margin-left: 20px;
+    list-style-type: square;
+}
+
+/* Pied de page */
+footer {
+    background-color: #5B9270;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+
+/* Media queries */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .conteneur_logo {
+        justify-content: center;
+    }
+
+    nav a {
+        padding: 8px 10px;
+        font-size: 14px;
+    }
+
+    section {
+        padding: 15px;
+    }
+}
+
+@media (max-width: 480px) {
+    nav a {
+        padding: 5px;
+        font-size: 12px;
+    }
+
+    section {
+        padding: 10px;
+    }
+}
