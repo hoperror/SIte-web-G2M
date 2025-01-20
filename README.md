@@ -12,7 +12,7 @@ https://hoperror.github.io/SIte-web-G2M/
 - Hébergement : Le site est hébergé sur https://github.com/
 - Licence : Projet sous licence Creative Commons Attribution - Pas d'utilisation Commerciale - Partage dans les mêmes conditions 4.0 international.
 
-###Remarques diverses
+### Remarques diverses
 
 ### Difficultés rencontrées 
 - L'accès à des informations clés concernant le master a été un véritable défi. Les mails envoyés aux responsables ou aux étudiants pour obtenir des détails précis (par exemple, histoires du master, projets et réalisations des étudiants, images et médias divers...) sont restés sans réponse.
