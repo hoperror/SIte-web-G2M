@@ -14,7 +14,7 @@ https://hoperror.github.io/SIte-web-G2M/
 
 ### Remarques diverses
 
-### Difficultés rencontrées 
+#### Difficultés rencontrées 
 - L'accès à des informations clés concernant le master a été un véritable défi. Les mails envoyés aux responsables ou aux étudiants pour obtenir des détails précis (par exemple, histoires du master, projets et réalisations des étudiants, images et médias divers...) sont restés sans réponse.
 - Certaines informations obtenues étaient vagues ou incomplètes.
 - La coopération avec le réseau étudiant a été limitée, freinant la collecte de retours ou de témoignages pertinents.
